@@ -1,4 +1,4 @@
 # Payment-gateway-Integration.github.io
-# https://nitish105.github.io/Payment-gateway-Integration.github.io/
-## The Sparks Foundation -- Task 3 
-# Create a Simple Website where Payment Gateway Integration 
+https://nitish105.github.io/Payment-gateway-Integration.github.io/
+# The Sparks Foundation -- Task 3 
+Create a Simple Website where Payment Gateway Integration 
